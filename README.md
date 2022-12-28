@@ -4,3 +4,5 @@ Blog para aprender Git
 Uy  no esta loco si cree que voy a escribir todo esto, sera que alguien ve esto ? en caso de que si, no sirve de mucho pero bienvenido lol
 
 Un amable recordatorio
+Otros cambios pendientes
+Disponible en todas las librerias del pais
